@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KafkaConsumers": {
+      "commandName": "Project",
+      "commandLineArgs": "\"localhost:9092\" \"topic-teste-kafdrop\""
+    }
+  }
+}
